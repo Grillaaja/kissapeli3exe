@@ -1,2 +1,2 @@
 # kissapeli3exe
-https://github.com/Grillaaja/kissapeli3exe/zipball/master/
+[Lataa peli painamalla tätä](https://github.com/Grillaaja/kissapeli3exe/zipball/master/)
